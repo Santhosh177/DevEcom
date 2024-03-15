@@ -1,0 +1,9 @@
+{
+	"name": "adfdevecomproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e99e12e3-0879-4872-957e-6aa84e95ca38",
+		"tenantId": "2bffeadb-507f-4a3e-8855-f4926dafd843"
+	}
+}
